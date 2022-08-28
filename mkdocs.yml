@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Jupyter Sandbox
+
+theme:
+  name: material
+
+
